@@ -8,7 +8,9 @@ permalink: /about/
 
 ### More about me
 
-Morning person/Movie lover/Not working at night
+* Morning person
+* Movie lover
+* Not working at night
 
 ### Contact me
 
