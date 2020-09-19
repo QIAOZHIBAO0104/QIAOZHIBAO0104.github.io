@@ -9,4 +9,4 @@ I joined some data sets with different endpoints by franchiseId. After have a gl
 In this project, data analysis was not the most difficult part for me, writing functions and specifying the franchise of choice by both name and number is. So I think the biggest thing l learned is how to nest other function or loops in a function, it is challenging but interesting, and I found the tools that R offers are unlimited.
 To view my project, you can check out the GitHub pages site at here:
 
-`https://qiaozhibao0104.github.io/PROJECT1--ST-558/`
+(https://qiaozhibao0104.github.io/PROJECT1--ST-558/)
